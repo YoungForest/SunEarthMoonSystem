@@ -5,7 +5,7 @@
 
 // 初始视角（ 视点在(+z, -y)处 ）
 #define REST_Z 5.0
-#define REST_Y -10.0
+#define REST_Y 10.0
 
 // lookAt参数
 GLdouble eyeX = 0.0, eyeY = 5.0, eyeZ = -10.0;
